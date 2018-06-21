@@ -16,10 +16,10 @@
     </dependency>
   </dependencies>
   <distributionManagement>
-    <repository>
-      <id>deployment</id>
-      <name>snapshot</name>
-      <url>http://localhost:8081/repository/snapshot/</url>
-      </repository>
+       <repository>
+          <id>deployment</id>
+          <name>snapshot</name>
+          <url>http://localhost:8081/repository/snapshot/</url>
+        </repository>
     </distributionManagement>
 </project>
